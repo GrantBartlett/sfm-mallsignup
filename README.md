@@ -1,4 +1,4 @@
-SFM-Mallsignup
+sfm_newsletter
 ==============
 
-sfm_mallsignup
+SFM Newsletter
